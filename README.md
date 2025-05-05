@@ -55,8 +55,8 @@ Quer contribuir com o projeto? Sinta-se à vontade para fazer um fork e enviar m
 
 Vamos trocar uma ideia? Estou sempre aberto a feedbacks e conexões:
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/lucca-ozorio-nascimento-971244133/)  
-- 💻 [GitHub](https://github.com/LuccaWolfric)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/luccaozorio/)
+- 💻 [GitHub](https://github.com/LuccaOzorio)  
 - 📸 [Instagram](https://www.instagram.com/lucca.ozorio/)
 
 ---
