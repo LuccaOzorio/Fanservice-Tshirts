@@ -1,31 +1,66 @@
-# Fanservice-Tshirts
-<h1>Projeto de Vendas de Camisetas para Otakus e Fãs de Anime</h1>
-<h3>Introdução</h3>
-<p>Bem-vindo(a) ao projeto de vendas de camisetas para otakus e fãs de anime! Este projeto foi desenvolvido com o intuito de fornecer um exemplo prático de um site de comércio eletrônico para venda de camisetas temáticas, voltado especificamente para o público apaixonado por animes.</p>
+# 🧢 Fanservice-Tshirts
 
-<h3>Descrição do Projeto</h3>
-O site de vendas de camisetas para otakus e fãs de anime é um projeto completo de um e-commerce desenvolvido como parte de um curso de web design. Ele foi criado do zero, com foco na aplicação de conceitos e técnicas avançadas de desenvolvimento web.
+### Loja virtual de camisetas para otakus e fãs de anime — [Acesse aqui](https://fanservice-tshirts.vercel.app/)
 
-O objetivo principal do projeto é fornecer uma plataforma de comércio eletrônico onde os usuários possam explorar uma ampla variedade de camisetas relacionadas a animes, desde personagens icônicos até designs exclusivos. O site oferece recursos essenciais, como navegação por categorias, busca avançada, detalhes do produto, carrinho de compras e checkout.
+![Banner do Site](./banner.png)
 
-<h3>Tecnologias Utilizadas</h3>
-O desenvolvimento do projeto foi realizado utilizando uma combinação de tecnologias e frameworks populares no ecossistema web. As principais tecnologias utilizadas incluem:
+## ✨ Sobre o Projeto
 
-  <b>HTML5 e CSS3:</b> Foram utilizados para a estruturação e estilização das páginas, garantindo um layout responsivo e uma experiência visualmente atraente.
+**Fanservice-Tshirts** é um projeto de e-commerce fictício voltado ao público otaku, desenvolvido como parte da minha formação em front-end. O objetivo principal foi criar uma loja virtual responsiva e visualmente atrativa, aplicando na prática os conhecimentos de HTML e CSS com foco em UX/UI.
 
-  <b>JavaScript:</b> Desempenha um papel secundario no site pois ainda estou aprendendo como utilizara linguagem.
+A ideia foi unir minha paixão por animes com o desenvolvimento web, criando um ambiente temático onde usuários podem explorar uma coleção fictícia de camisetas inspiradas em personagens e universos icônicos.
 
-<h3>Contribuindo</h3>
-Este projeto está aberto para contribuições da comunidade de desenvolvedores. Se você tiver interesse em colaborar e aprimorar o código-fonte do site de vendas de camisetas para otakus e fãs de anime, fique à vontade para fazer um fork do repositório no GitHub e enviar suas melhorias através de pull requests.
+---
 
-<h3>Contato</h3>
-Se você tiver alguma dúvida, sugestão ou apenas quiser entrar em contato para discutir o projeto, sinta-se à vontade para me encontrar nas seguintes redes sociais:
+## 🎯 Objetivos
 
-<h3>
-LinkedIn: https://www.linkedin.com/in/lucca-ozorio-nascimento-971244133/<br>
-GitHub: https://github.com/LuccaWolfric<br>
-Instagram: https://www.instagram.com/lucca.ozorio/<br>
-</h3>
-Será um prazer conectar com você e discutir ideias relacionadas a este projeto.
+- Desenvolver uma loja virtual temática desde o zero  
+- Praticar estruturação semântica com HTML5  
+- Criar um layout responsivo e agradável com CSS3  
+- Aplicar conceitos de design voltados à experiência do usuário  
 
-Agradeço pelo seu interesse neste projeto e espero que ele possa servir como uma valiosa referência para desenvolvedores interessados em construir sites de comércio eletrônico com temática de anime.
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+- **HTML5:** Estrutura semântica e bem organizada das páginas  
+- **CSS3:** Estilização completa com foco em responsividade e visual  
+- **Vercel:** Hospedagem gratuita e simples para projetos front-end  
+
+---
+
+## 🌐 Acesse o Projeto
+
+🔗 [https://fanservice-tshirts.vercel.app](https://fanservice-tshirts.vercel.app)
+
+---
+
+## 🧠 Aprendizados
+
+Este projeto me permitiu consolidar habilidades fundamentais no front-end, como:
+
+- Criação de layouts com CSS Grid e Flexbox  
+- Estruturação limpa e organizada com HTML semântico  
+- Noções práticas de responsividade e design visual  
+
+---
+
+## 🤝 Contribuições
+
+Quer contribuir com o projeto? Sinta-se à vontade para fazer um fork e enviar melhorias — principalmente se quiser implementar novas funcionalidades como busca, filtros ou até um back-end futuramente!
+
+---
+
+## 📬 Contato
+
+Vamos trocar uma ideia? Estou sempre aberto a feedbacks e conexões:
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/lucca-ozorio-nascimento-971244133/)  
+- 💻 [GitHub](https://github.com/LuccaWolfric)  
+- 📸 [Instagram](https://www.instagram.com/lucca.ozorio/)
+
+---
+
+## 💬 Agradecimento
+
+Agradeço por visitar o projeto! Espero que ele sirva como inspiração e referência para quem também está começando na área de desenvolvimento web. 🌟
