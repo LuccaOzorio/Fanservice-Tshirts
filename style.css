@@ -288,18 +288,27 @@ section.depoimentos {
     margin: 10px 0;
 }
 
+.carrossel-container {
+    position: relative;
+    overflow: hidden;
+}
+
 .carrossel {
     display: flex;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+    -webkit-overflow-scrolling: touch;
+    gap: 16px;
+    padding: 1rem;
+    scroll-behavior: smooth;
 }
 
 .carrossel-single {
-    width: 24%;
-    margin-right: 2%;
+    flex: 0 0 300px;
+    scroll-snap-align: start;
     text-align: center;
-}
-
-.carrossel-single img {
-    max-width: 100%;
+    background-color: white;
+    border-radius: 10px;
 }
 
 .carrossel-single-box {
@@ -321,11 +330,48 @@ section.depoimentos {
 }
 
 .carrossel-single img {
+    max-width: 100%;
     width: 70px;
     height: 70px;
     margin: 10px 0;
     display: inline-block;
+    border-radius: 50%;
 }
+
+/* Setas de navegação */
+.carrossel-btn {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: #124265;
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    z-index: 1;
+    font-size: 20px;
+    border-radius: 50%;
+}
+
+.carrossel-btn.prev {
+    left: 10px;
+}
+
+.carrossel-btn.next {
+    right: 10px;
+}
+
+/* Esconde as setas no mobile */
+@media (max-width: 768px) {
+    .carrossel-single {
+        flex: 0 0 90%;
+    }
+
+    .carrossel-btn {
+        display: none;
+    }
+}
+
 
 section.produtos {
     display: flex;
