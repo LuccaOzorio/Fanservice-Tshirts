@@ -305,6 +305,16 @@
             }
         })
     </script>
+    <script>
+  function scrollCarrossel(direction) {
+    const container = document.getElementById('depos');
+    const scrollAmount = 320;
+    container.scrollBy({
+      left: direction * scrollAmount,
+      behavior: 'smooth'
+    });
+  }
+</script>
 </body>
 
 </html>
